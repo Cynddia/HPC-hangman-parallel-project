@@ -1,5 +1,4 @@
-[9:03 PM, 4/14/2024] Cynddia: Okay
-[9:03 PM, 4/14/2024] Harini: #include <iostream>
+#include <iostream>
 #include <vector>
 #include <string>
 #include <random>
